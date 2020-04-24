@@ -4,8 +4,8 @@
     说明：一个单词是指仅由字母组成、不包含任何空格字符的最大子字符串。
     来源：力扣（LeetCode）
     链接：https://leetcode-cn.com/problems/length-of-last-word
-
 '''
+
 class Solution:
     def lengthOfLastWord(self, s):
         if not s:
